@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dumkis+Julmensir!;Full-Stack+%26+Mobile+Developer;AI+Enthusiast+%26+Video+Editing+Expert;Founder+of+LayRaga.Official" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dumkis+Julmensir+Lay+Raga!;Full-Stack+%26+Mobile+Developer;AI+Enthusiast+%26+Video+Editing+Expert;Founder+of+LayRaga.Official" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🎓 Sistem Informasi | Universitas Respati Yogyakarta</h3>

@@ -104,7 +104,6 @@
 
 <p align="center">
   <img width="45%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julmensir&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-  <img width="45%" style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=julmensir&theme=radical&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophy" />
 </p>
 
 <p align="center">

@@ -5,8 +5,8 @@
 <h3 align="center">🎓 Sistem Informasi | Universitas Respati Yogyakarta</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=layraga&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/layraga?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=julmensir&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/julmensir?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="followers" />
   <img src="https://img.shields.io/badge/Status-🚀_Building_CATY-10B981?style=for-the-badge" alt="status" />
 </p>
 
@@ -94,24 +94,24 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<!-- GITHUB STATS SECTION -->
+<!-- GITHUB STATS SECTION (FIXED) -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="45%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=layraga&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="45%" style="max-width: 100%;" src="https://streak-stats.demolab.com?user=layraga&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="45%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=julmensir&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="45%" style="max-width: 100%;" src="https://streak-stats.demolab.com?user=julmensir&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="45%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layraga&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-  <img width="45%" style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=layraga&theme=radical&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophy" />
+  <img width="45%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julmensir&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img width="45%" style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=julmensir&theme=radical&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophy" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<!-- PROJECTS SECTION (UPDATED WITH ACCURATE CATY DESCRIPTION) -->
+<!-- PROJECTS SECTION -->
 <h2 align="center">🔥 Proyek Unggulan</h2>
 
 <table width="100%">
@@ -270,4 +270,4 @@
   <img src="https://img.shields.io/badge/Built_with-🚀-blue?style=flat" />
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/layraga"><strong>layraga</strong></a></p>
+<p align="center">⭐️ From <a href="https://github.com/julmensir"><strong>julmensir</strong></a></p>

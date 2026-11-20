@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=layraga&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/layraga?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-🟢_Open_to_Collaborate-10B981?style=for-the-badge" alt="status" />
+  <img src="https://img.shields.io/badge/Status-🚀_Building_CATY-10B981?style=for-the-badge" alt="status" />
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
       <ul style="list-style: none; padding-left: 0;">
         <li>🚀 <b>Founder</b> dari <b>LayRaga.Official</b> (Digital Entrepreneur)</li>
         <li>🏆 <b>Top 10 National AI Talent Development Workshop</b> - Alibaba Cloud 2025</li>
-        <li>🔭 Saat ini fokus mengembangkan: <b>ARSIKA</b> (Arsip Digital) & <b>SMA Absensi QR</b></li>
+        <li>🔭 Saat ini fokus mengembangkan: <b>CATY</b> (AI-Powered App) & <b>ResumeIQ Pro</b></li>
         <li>📱 Mengembangkan aplikasi mobile modern menggunakan <b>Flutter & Dart</b></li>
-        <li>🎬 <b>Sangat Menguasai Video Editing</b>: CapCut, KineMaster, & Alight Motion untuk konten kreatif berkualitas tinggi</li>
+        <li>🎬 <b>Sangat Menguasai Video Editing</b>: CapCut, KineMaster, & Alight Motion</li>
         <li>🌱 Sedang mendalami: <b>React.js, Node.js, AI Automation, & Cloud Computing</b></li>
         <li>📫 Reach me: <a href="mailto:dumkisjulmensirlayraga@gmail.com"><b>dumkisjulmensirlayraga@gmail.com</b></a></li>
       </ul>
@@ -93,11 +93,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<!-- GITHUB STATS SECTION (DIPERBAIKI AGAR GAMBAR MUNCUL SEMUA) -->
+<!-- GITHUB STATS SECTION -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <!-- Menggunakan endpoint demolab yang lebih stabil untuk Streak Stats -->
   <img width="45%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=layraga&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img width="45%" style="max-width: 100%;" src="https://streak-stats.demolab.com?user=layraga&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -111,51 +110,76 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<!-- PROJECTS SECTION -->
+<!-- PROJECTS SECTION (UPDATED WITH YOUR APPS) -->
 <h2 align="center">🔥 Proyek Unggulan</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📁 ARSIKA (Arsip Digital)</h3>
-      <p>Sistem Manajemen Arsip Digital dengan struktur folder otomatis (Tahun → Bulan → Kategori). Dilengkapi hak akses, Dashboard + Chart.js, Reset Password via OTP Email, dan Export Laporan Excel.</p>
+      <h3>🚀 CATY (AI-Powered App)</h3>
+      <p>Aplikasi cerdas berbasis AI yang sedang dalam pengembangan intensif. Dirancang untuk memberikan solusi inovatif dengan antarmuka modern dan pengalaman pengguna yang mulus.</p>
       <p>
-        <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-FF6B00?style=flat&logo=openai&logoColor=white" />
       </p>
-      <p><img src="https://img.shields.io/badge/Status-🟢_Production-10B981?style=flat" /></p>
+      <p><img src="https://img.shields.io/badge/Status-🚧_In_Development-FBBF24?style=flat" /></p>
+      <a href="https://github.com/julmensir/CATY">Lihat Repositori</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 SMA Absensi QR</h3>
-      <p>Sistem Absensi Digital SMA dengan scan QR Code realtime. Fitur: Login Siswa (NISN) & Guru, Dashboard Monitoring, Kelola Hari Libur, Export Excel, dan Generate Kartu Pelajar Digital.</p>
+      <h3>📄 ResumeIQ Pro (Capstone Project)</h3>
+      <p>AI CV Intelligence Dashboard untuk screening kandidat otomatis. Mengekstrak data CV, menghitung Match Score berdasarkan Job Description, dan menampilkan ranking kandidat. Dibangun dengan IBM Bob.</p>
       <p>
-        <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5_QRCode-FF6B00?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/IBM_Bob-052FAD?style=flat&logo=ibm&logoColor=white" />
       </p>
       <p><img src="https://img.shields.io/badge/Status-🟢_Production-10B981?style=flat" /></p>
+      <a href="https://github.com/julmensir/capstone-resumeiq-pro-hacktiv8">Lihat Repositori</a> | <a href="https://capstone-resumeiq-pro-hacktiv8.vercel.app/">Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📷 Bos Muda Web App</h3>
-      <p>Aplikasi sewa kamera & photobooth dengan sistem notifikasi auto WhatsApp.</p>
+      <h3>📷 HUBLR</h3>
+      <p>Aplikasi web all-in-one untuk manajemen tugas, catatan, cuaca, dan inspirasi harian. Dibangun dengan HTML, CSS, dan JavaScript murni.</p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       </p>
       <p><img src="https://img.shields.io/badge/Status-🟢_Production-10B981?style=flat" /></p>
+      <a href="https://github.com/LAYRAGA-OFFICIAL/hublr">Lihat Repositori</a> | <a href="https://layraga-official.github.io/hublr/">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Mobile App (Flutter)</h3>
-      <p>Pengembangan aplikasi mobile cross-platform yang cepat dan responsif, memanfaatkan ekosistem <b>Flutter & Dart</b> untuk UI yang mulus dan performa native.</p>
+      <h3>📱 ScanLR</h3>
+      <p>Aplikasi scan QR Code yang cepat, ringan, dan responsif. Cocok untuk berbagai kebutuhan scanning sehari-hari.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
       </p>
-      <p><img src="https://img.shields.io/badge/Status-🚧_In_Development-FBBF24?style=flat" /></p>
+      <p><img src="https://img.shields.io/badge/Status-🟢_Production-10B981?style=flat" /></p>
+      <a href="https://github.com/LAYRAGA-OFFICIAL/scanlr">Lihat Repositori</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Game Lay Raga</h3>
+      <p>Game interaktif berbasis web yang dikembangkan untuk hiburan dan eksplorasi kreativitas dalam pengembangan game.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      </p>
+      <p><img src="https://img.shields.io/badge/Status-🟢_Production-10B981?style=flat" /></p>
+      <a href="https://github.com/julmensir/Game-Lay-Raga">Lihat Repositori</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📁 ARSIKA (Arsip Digital)</h3>
+      <p>Sistem Manajemen Arsip Digital dengan struktur folder otomatis, hak akses, Dashboard, Reset Password OTP, dan Export Excel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p><img src="https://img.shields.io/badge/Status-🟢_Production-10B981?style=flat" /></p>
     </td>
   </tr>
 </table>
@@ -164,6 +188,8 @@
   <summary><h3 align="center">📂 Lihat Proyek Lainnya (Klik untuk membuka)</h3></summary>
   <br>
   <ul>
+    <li><strong>SMA Absensi QR:</strong> Sistem Absensi Digital dengan scan QR Code realtime (Google Apps Script).</li>
+    <li><strong>Bos Muda Web App:</strong> Aplikasi sewa kamera & photobooth dengan notifikasi auto WhatsApp (Laravel).</li>
     <li><strong>ANBK Simulation:</strong> Simulasi ujian ANBK untuk SD dengan soal acak & skor otomatis (PHP, JS).</li>
     <li><strong>Sampah Jogja:</strong> Manajemen pengambilan sampah digital dengan dashboard admin & user (CodeIgniter 4).</li>
     <li><strong>Platform Pelatihan Online:</strong> LMS dengan dashboard admin, instruktur, & peserta (Laravel) <em>[🚧 Development]</em>.</li>
@@ -189,7 +215,7 @@
     <td width="50%" valign="top">
       <h4>🏛️ Organisasi</h4>
       <ul>
-        <li><strong>Ketua Koordinator Aspirasi & Kominfo</strong> - DPM Universitas Respati Yogyakarta (2025-2026)<br><em>Memimpin tim aspirasi, mengelola media sosial DPM, dan menjadi penghubung mahasiswa-kampus.</em></li>
+        <li><strong>Ketua Koordinator Aspirasi & Kominfo</strong> - DPM Universitas Respati Yogyakarta (2025-2026)</li>
         <li><strong>Anggota PPM (Pengembangan Potensi Mahasiswa)</strong> - HIMASI Unres (2025-2026)</li>
         <li><strong>Panitia Kongres</strong> - Universitas Respati Yogyakarta (2024)</li>
       </ul>

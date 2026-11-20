@@ -23,9 +23,9 @@
       <ul style="list-style: none; padding-left: 0;">
         <li>🚀 <b>Founder</b> dari <b>LayRaga.Official</b> (Digital Entrepreneur)</li>
         <li>🏆 <b>Top 10 National AI Talent Development Workshop</b> - Alibaba Cloud 2025</li>
-        <li>🔭 Saat ini fokus mengembangkan: <b>CATY</b> (AI-Powered App) & <b>ResumeIQ Pro</b></li>
+        <li>🔭 Saat ini fokus mengembangkan: <b>CATY</b> (Chat AI Tegalrejo Yogyakarta) & <b>ResumeIQ Pro</b></li>
         <li>📱 Mengembangkan aplikasi mobile modern menggunakan <b>Flutter & Dart</b></li>
-        <li>🎬 <b>Sangat Menguasai Video Editing</b>: CapCut, KineMaster, & Alight Motion</li>
+        <li>🎬 <b>Sangat Menguasai Video Editing</b>: CapCut, KineMaster, & Alight Motion untuk konten kreatif berkualitas tinggi</li>
         <li>🌱 Sedang mendalami: <b>React.js, Node.js, AI Automation, & Cloud Computing</b></li>
         <li>📫 Reach me: <a href="mailto:dumkisjulmensirlayraga@gmail.com"><b>dumkisjulmensirlayraga@gmail.com</b></a></li>
       </ul>
@@ -60,6 +60,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -110,18 +111,19 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<!-- PROJECTS SECTION (UPDATED WITH YOUR APPS) -->
+<!-- PROJECTS SECTION (UPDATED WITH ACCURATE CATY DESCRIPTION) -->
 <h2 align="center">🔥 Proyek Unggulan</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 CATY (AI-Powered App)</h3>
-      <p>Aplikasi cerdas berbasis AI yang sedang dalam pengembangan intensif. Dirancang untuk memberikan solusi inovatif dengan antarmuka modern dan pengalaman pengguna yang mulus.</p>
+      <h3>🤖 CATY (Chat AI Tegalrejo Yogyakarta)</h3>
+      <p>Asisten virtual Kemantren Tegalrejo untuk layanan administrasi warga, 24 jam, berbasis AI dan buku pengetahuan resmi. Warga bisa bertanya tentang KTP, KK, akta, surat keterangan, izin usaha, dan layanan lain lewat tampilan chat yang ringan dan bisa dipasang seperti aplikasi (PWA).</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-FF6B00?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-20%2B-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-5-000000?style=flat&logo=express" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-Gemini%20%2F%20Groq-FF6B00?style=flat&logo=openai&logoColor=white" />
       </p>
       <p><img src="https://img.shields.io/badge/Status-🚧_In_Development-FBBF24?style=flat" /></p>
       <a href="https://github.com/julmensir/CATY">Lihat Repositori</a>
